@@ -4,7 +4,7 @@ This project was generated with Asp .Net Core 8
 
 ## Inicio Local
 
-1.Descargar el repositorio en su carpeta
+1. Descargar el repositorio en su carpeta
 
 2. Abrir Visual Studio
    
